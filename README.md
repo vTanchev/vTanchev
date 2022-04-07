@@ -33,6 +33,16 @@ Dedicated to education through academy lessons, research and reading documentati
 ## 📊 Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vTanchev&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</br>
+</br>
+
+## Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</br>
+</br>
 
 ### Profile Visits
 
