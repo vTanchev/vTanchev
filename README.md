@@ -4,7 +4,6 @@
 <h3 align="center">I'm a software engineering student, with preference on web technologies.
 Dedicated to education through academy lessons, research and reading documentation on MDN.</h3>
 </br>
-</br>
 
 ## Connect with me:
 
@@ -15,25 +14,23 @@ Dedicated to education through academy lessons, research and reading documentati
 <a href = "https://www.reddit.com/user/xin0w"><img src="https://img.icons8.com/fluent/48/000000/reddit.png"/></a>
 
 </br>
-</br>
 
 ## 🚀 Languages and Tools:
 
-</br>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
 <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-</br>
+
 </br>
 
 ## 📊 Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vTanchev&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</br>
+
 </br>
 
 ## Coding Stats
@@ -41,7 +38,6 @@ Dedicated to education through academy lessons, research and reading documentati
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-</br>
 </br>
 
 ### Profile Visits
