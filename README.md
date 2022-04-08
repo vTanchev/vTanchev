@@ -12,6 +12,7 @@ Dedicated to education through academy lessons, research and reading documentati
 <a href = "https://www.linkedin.com/in/vasko-tanchev/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/xin0w"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.reddit.com/user/xin0w"><img src="https://img.icons8.com/fluent/48/000000/reddit.png"/></a>
+ <a href = "https://stackoverflow.com/users/17823206/xin0w"><img src="https://img.icons8.com/fluent/48/000000/stackoverflow.png"/></a>
 
 </br>
 
