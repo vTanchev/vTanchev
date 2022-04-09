@@ -39,7 +39,11 @@ Dedicated to education through academy lessons, research and reading documentati
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   2 hrs 20 mins   ███████████████████░░░░░░   75.40 %
+Markdown     32 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.61 %
+YAML         12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
