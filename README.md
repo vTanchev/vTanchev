@@ -2,6 +2,7 @@
 
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vasko</h1>
 <h3 align="center">Software engineering student, with preference on web technologies. Dedicated to education through academy lessons, research and reading documentation on MDN. Currently enrolled in SMX Academy where I am learning JavaScript, React while working on projects with likeminded people where we share common goals and interests.
+ <div></div>
 </br>
 Front-end: JavaScript, React, HTML5, CSS3
 </br>
