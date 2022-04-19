@@ -47,11 +47,11 @@ Professional: Teamwork</h3>
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   12 hrs 36 mins  ████████████████████▒░░░░   81.53 %
-CSS          1 hr 38 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
-HTML         1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+JavaScript   11 hrs 31 mins  ████████████████████░░░░░   80.31 %
+CSS          1 hr 38 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
+HTML         1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
