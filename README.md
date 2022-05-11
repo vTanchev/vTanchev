@@ -10,7 +10,7 @@ Back-end: Node.js, Python
 </br>
 Tools & Methods: Git, GitHub, Netlify
 </br>
-Professional: Teamwork</h3>
+Professional: Problem Solving, Visual Thinking, Enthusiasm, Teamwork</h3>
 </br>
 
 ## Connect with me:
