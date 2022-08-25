@@ -48,12 +48,12 @@ Professional: Problem Solving, Visual Thinking, Enthusiasm, Teamwork</h3>
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   8 hrs 28 mins   ██████████████████▓░░░░░░   74.25 %
-CSS          2 hrs 42 mins   ██████░░░░░░░░░░░░░░░░░░░   23.73 %
-Markdown     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-XML          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+JavaScript   5 hrs 3 mins    ██████████████████▒░░░░░░   73.81 %
+CSS          1 hr 35 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
+XML          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
