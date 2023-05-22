@@ -6,7 +6,7 @@
 </br>
 Front-end: React, JavaScript, Sass, CSS3, HTML5
 </br>
-Back-end: Node.js, Python
+Back-end: Node.js
 </br>
 Tools & Methods: Git, GitHub, Netlify
 </br>
@@ -26,7 +26,7 @@ Professional: Problem Solving, Visual Thinking, Enthusiasm, Teamwork</h3>
 </br>
 
 ## 🚀 Languages and Tools:
-<a href="https://python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+
 <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
