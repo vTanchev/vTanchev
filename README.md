@@ -63,6 +63,5 @@ Bash         3 mins          ░░░░░░░░░░░░░░░░░
 
 ### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vTanchev.vTanchev&left_color=green&right_color=red)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vTanchev&left_color=green&right_color=red)
 ![/github/followers/:user?label=Follow](https://img.shields.io/github/followers/vTanchev?style=social)
