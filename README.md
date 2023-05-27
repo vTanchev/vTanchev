@@ -40,24 +40,12 @@ Professional: Problem Solving, Visual Thinking, Enthusiasm, Teamwork</h3>
 </br>
 
 ## 📊 Github Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vTanchev&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vtanchev&show_icons=true&locale=en&layout=compact" alt="vtanchev" /></p>
 
 </br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vtanchev&show_icons=true&locale=en" alt="vtanchev" /></p>
 
-## Coding Stats
-
-<!--START_SECTION:waka-->
-
-```text
-Vue.js       12 hrs 7 mins   ██████████████████▒░░░░░░   73.44 %
-JavaScript   3 hrs 16 mins   █████░░░░░░░░░░░░░░░░░░░░   19.82 %
-CSS          59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-Bash         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-```
-
-<!--END_SECTION:waka-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vtanchev&" alt="vtanchev" /></p>
 
 </br>
 
